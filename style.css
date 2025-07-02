@@ -1,0 +1,44 @@
+
+
+body{
+    align-content: center;
+    background-image: url('media/image6.jpg');
+    background-size: cover;
+    content: none;
+    padding-left: 30px;
+    overflow-y: scroll;
+}
+figcaption{
+    font-size: larger;
+    color: dodgerblue;
+}
+p{
+    font-size: larger;
+    color: dodgerblue;
+}
+h1,h2{
+    color: slateblue;
+}
+
+#displayChallenges{
+    background-color: blueviolet;
+    color: darkturquoise;
+}
+
+img{
+    border-radius: 10%;
+}
+
+#slider{
+    background-color: hsl(209, 11%, 36%);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    display: flex;
+    border-radius: 2%;
+    width: fit-content;
+   scroll-behavior: smooth;;
+
+}
+#slide{
+    
+}
