@@ -2,7 +2,7 @@
 
 body{
     align-content: center;
-    background-image: url('media/image6.jpg');
+    background-color: lightslategray;
     background-size: cover;
     content: none;
     padding-left: 30px;
@@ -10,19 +10,19 @@ body{
 }
 figcaption{
     font-size: larger;
-    color: dodgerblue;
+    color:aliceblue;
 }
 p{
     font-size: larger;
-    color: dodgerblue;
+    color: aliceblue;
 }
 h1,h2{
-    color: slateblue;
+    color: aliceblue;
 }
 
 #displayChallenges{
     background-color: blueviolet;
-    color: darkturquoise;
+    color: aliceblue;
 }
 
 img{
